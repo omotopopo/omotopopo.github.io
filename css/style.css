@@ -1,0 +1,27 @@
+body {
+    font-size: 14px;
+}
+
+#canvas {
+    width: 700px;
+}
+
+.header_img {
+    width: 30%;
+    float: left;
+    margin-right: 7px;
+    margin-bottom: 1px;
+    padding: 3px;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#footer {
+    clear: both;
+    text-align: left;
+    font-size: 13px;         
+}
