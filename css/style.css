@@ -12,6 +12,7 @@ body {
     margin-right: 7px;
     margin-bottom: 1px;
     padding: 3px;
+    /*border: 1px solid black;*/
 }
 
 .clearfix::after {
